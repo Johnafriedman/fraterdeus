@@ -2,124 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33684910-8b92-4f92-9715-6c69d6613650" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/fraterdeus.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++plone++production/++unique++2019-08-15T14_33_49.346238/++plone++static/++resource++plone.app.imagecropping.static/Jcrop.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++plone++production/++unique++2019-08-15T14_33_49.346238/default.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++plone++production/++unique++2019-08-15T14_33_49.346238/default.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++plone++production/++unique++2019-08-15T14_33_49.346238/fonts/glyphicons-halflings-regular-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++plone++production/++unique++2019-08-15T14_33_49.346238/fonts/glyphicons-halflings-regular.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++plone++static/fonts/plone-fontello.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++resource++search.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/barceloneta-apple-touch-icon-114x114-precomposed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/barceloneta-apple-touch-icon-144x144-precomposed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/barceloneta-apple-touch-icon-57x57-precomposed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/barceloneta-apple-touch-icon-72x72-precomposed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/barceloneta-apple-touch-icon-precomposed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/barceloneta-apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/barceloneta-favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/less/barceloneta-compiled.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/less/less/roboto/roboto-bold.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/less/less/roboto/roboto-bold.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/less/less/roboto/roboto-bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/less/less/roboto/roboto-bold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/less/less/roboto/roboto-boldd41d.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/less/less/roboto/roboto-bolditalic.54.delayed" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/less/less/roboto/roboto-bolditalic.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/less/less/roboto/roboto-bolditalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/less/less/roboto/roboto-bolditalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/less/less/roboto/roboto-bolditalicd41d.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/less/less/roboto/roboto-italic.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/less/less/roboto/roboto-italic.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/less/less/roboto/roboto-italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/less/less/roboto/roboto-italic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/less/less/roboto/roboto-italicd41d.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/less/less/roboto/roboto-light.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/less/less/roboto/roboto-light.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/less/less/roboto/roboto-light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/less/less/roboto/roboto-light.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/less/less/roboto/roboto-lightd41d.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/less/less/roboto/roboto-lightitalic.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/less/less/roboto/roboto-lightitalic.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/less/less/roboto/roboto-lightitalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/less/less/roboto/roboto-lightitalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/less/less/roboto/roboto-lightitalicd41d.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/less/less/roboto/roboto-medium.47.delayed" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/less/less/roboto/roboto-medium.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/less/less/roboto/roboto-medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/less/less/roboto/roboto-medium.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/less/less/roboto/roboto-mediumd41d.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/less/less/roboto/roboto-mediumitalic.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/less/less/roboto/roboto-mediumitalic.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/less/less/roboto/roboto-mediumitalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/less/less/roboto/roboto-mediumitalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/less/less/roboto/roboto-mediumitalicd41d.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/less/less/roboto/roboto-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/less/less/roboto/roboto-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/less/less/roboto/roboto-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/less/less/roboto/roboto-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/less/less/roboto/roboto-regulard41d.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/less/less/roboto/robotocondensed-light.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/less/less/roboto/robotocondensed-light.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/less/less/roboto/robotocondensed-light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/less/less/roboto/robotocondensed-light.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/less/less/roboto/robotocondensed-lightd41d.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/less/less/roboto/robotocondensed-lightitalic.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/less/less/roboto/robotocondensed-lightitalic.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/less/less/roboto/robotocondensed-lightitalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/less/less/roboto/robotocondensed-lightitalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/less/less/roboto/robotocondensed-lightitalicd41d.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/++theme++em/plone-mosaic.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/2019jul15-washburnmarina_panorama1-0-33x.jpg.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/2019jul15-washburnmarina_panorama1-0-33x.jpg/@@images/c8b97c49-711f-4f02-a205-7edc66ba89a2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/2019jul15-washburnmarina_panorama1-0-33x.jpg/@@images/image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/2019jul15-washburnmarina_panorama1-0-33x.jpg/image_view_fullscreen.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/2019jul15-washburnmarina_panorama1-0-33x.jpg/view.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/@@search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/@@search5917.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/@@searche411.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/@@searcheed8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/@@site-logo/2019 Ideaswords@0,5x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/RSS" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/about-the-artist-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/about-the-artist.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/accessibility-info.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/atom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/august-2019-exhibit-in-washburn.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/contact-info.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/contact-us-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/exhibit-downloads.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/img/confirm.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/img/divider_horizontal.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/img/divider_vertical.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/img/edit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/img/loading.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/img/remove.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/img/window.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/mail_password_formcc79.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/order-prints.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/photo-albums.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/resolveuid/2173f0542098462c930320a27b7a7f7a.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/rss.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/rss.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/search_rss0f64" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/search_rss5917" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/search_rssd41d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/search_rsseed8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/sessions.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.fraterdeus.com/sitemap.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.fraterdeus.com/++plone++production/++unique++2019-08-15T14_33_49.346238/default.css" beforeDir="false" afterPath="$PROJECT_DIR$/www.fraterdeus.com/++plone++production/++unique++2019-08-15T14_33_49.346238/default.css_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.fraterdeus.com/2019jul15-washburnmarina_panorama1-0-33x.jpg/view.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.fraterdeus.com/2019jul15-washburnmarina_panorama1-0-33x.jpg/view.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.fraterdeus.com/@@search.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.fraterdeus.com/@@search.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.fraterdeus.com/@@search5917.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.fraterdeus.com/@@search5917.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.fraterdeus.com/@@searche411.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.fraterdeus.com/@@searche411.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.fraterdeus.com/@@searcheed8.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.fraterdeus.com/@@searcheed8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.fraterdeus.com/about-the-artist-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.fraterdeus.com/about-the-artist-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.fraterdeus.com/about-the-artist.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.fraterdeus.com/about-the-artist.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.fraterdeus.com/accessibility-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.fraterdeus.com/accessibility-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.fraterdeus.com/august-2019-exhibit-in-washburn.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.fraterdeus.com/august-2019-exhibit-in-washburn.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.fraterdeus.com/contact-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.fraterdeus.com/contact-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.fraterdeus.com/contact-us-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.fraterdeus.com/contact-us-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.fraterdeus.com/exhibit-downloads.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.fraterdeus.com/exhibit-downloads.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.fraterdeus.com/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.fraterdeus.com/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.fraterdeus.com/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.fraterdeus.com/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.fraterdeus.com/mail_password_formcc79.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.fraterdeus.com/mail_password_formcc79.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.fraterdeus.com/order-prints.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.fraterdeus.com/order-prints.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.fraterdeus.com/photo-albums.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.fraterdeus.com/photo-albums.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.fraterdeus.com/sessions.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.fraterdeus.com/sessions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.fraterdeus.com/sitemap.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.fraterdeus.com/sitemap.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +42,17 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/www.fraterdeus.com" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/www.fraterdeus.com" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -164,16 +77,61 @@
       <option name="presentableId" value="Default" />
       <updated>1604944927661</updated>
       <workItem from="1604944929566" duration="1273000" />
+      <workItem from="1605120232320" duration="6381000" />
     </task>
+    <task id="LOCAL-00001" summary="fixing broken image link">
+      <created>1605121470057</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605121470057</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fixing broken image link">
+      <created>1605124728652</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605124728653</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fixing broken image link">
+      <created>1605124738488</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605124738488</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fixing broken image link" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixing broken image link" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="84" y="-836" width="670" height="676" key="search.everywhere.popup" timestamp="1604948111549">
-      <screen x="-480" y="-1057" width="1920" height="1057" />
+    <state x="91" y="-938" key="CommitChangelistDialog2" timestamp="1605124738377">
+      <screen x="-480" y="-1080" width="1920" height="1080" />
     </state>
+    <state x="91" y="-938" key="CommitChangelistDialog2/0.0.1440.900/-480.-1080.1920.1080@-480.-1080.1920.1080" timestamp="1605124738377" />
+    <state x="304" y="-822" key="RollbackChangesDialog" timestamp="1605126900168">
+      <screen x="-480" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="304" y="-822" key="RollbackChangesDialog/0.0.1440.900/-480.-1080.1920.1080@-480.-1080.1920.1080" timestamp="1605126900168" />
+    <state x="80" y="-800" key="Vcs.Push.Dialog.v2" timestamp="1604949282689">
+      <screen x="-480" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="80" y="-800" key="Vcs.Push.Dialog.v2/0.0.1440.900/-480.-1080.1920.1080@-480.-1080.1920.1080" timestamp="1604949282689" />
+    <state x="160" y="-778" width="639" height="476" key="find.popup" timestamp="1605126799500">
+      <screen x="-480" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="160" y="-778" width="639" height="476" key="find.popup/0.0.1440.900/-480.-1080.1920.1080@-480.-1080.1920.1080" timestamp="1605126799500" />
+    <state x="84" y="-854" width="670" height="691" key="search.everywhere.popup" timestamp="1605126745439">
+      <screen x="-480" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="84" y="-854" width="670" height="691" key="search.everywhere.popup/0.0.1440.900/-480.-1080.1920.1080@-480.-1080.1920.1080" timestamp="1605126745439" />
     <state x="84" y="-836" width="670" height="676" key="search.everywhere.popup/0.23.1440.877/-480.-1057.1920.1057@-480.-1057.1920.1057" timestamp="1604948111549" />
+    <state x="84" y="-854" width="670" height="691" key="search.everywhere.popup/0.23.1440.877/-480.-1080.1920.1080@-480.-1080.1920.1080" timestamp="1605123375388" />
   </component>
 </project>
