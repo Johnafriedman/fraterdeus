@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="33684910-8b92-4f92-9715-6c69d6613650" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www.fraterdeus.com/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.fraterdeus.com/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +59,7 @@
       <workItem from="1604944929566" duration="1273000" />
       <workItem from="1605120232320" duration="7140000" />
       <workItem from="1605129164974" duration="825000" />
-      <workItem from="1605193186791" duration="794000" />
+      <workItem from="1605193186791" duration="1406000" />
     </task>
     <task id="LOCAL-00001" summary="fixing broken image link">
       <created>1605121470057</created>
@@ -90,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605127185792</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="adding memorial notice">
+      <created>1605194116325</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605194116325</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,21 +105,22 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fixing broken image link" />
     <MESSAGE value="removing default.css to fix unwanted glyphicon in i.link-https" />
-    <option name="LAST_COMMIT_MESSAGE" value="removing default.css to fix unwanted glyphicon in i.link-https" />
+    <MESSAGE value="adding memorial notice" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding memorial notice" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="91" y="-938" key="CommitChangelistDialog2" timestamp="1605127185606">
+    <state x="91" y="-938" key="CommitChangelistDialog2" timestamp="1605194116129">
       <screen x="-480" y="-1080" width="1920" height="1080" />
     </state>
-    <state x="91" y="-938" key="CommitChangelistDialog2/0.0.1440.900/-480.-1080.1920.1080@-480.-1080.1920.1080" timestamp="1605127185606" />
+    <state x="91" y="-938" key="CommitChangelistDialog2/0.0.1440.900/-480.-1080.1920.1080@-480.-1080.1920.1080" timestamp="1605194116129" />
     <state x="304" y="-822" key="RollbackChangesDialog" timestamp="1605126900168">
       <screen x="-480" y="-1080" width="1920" height="1080" />
     </state>
     <state x="304" y="-822" key="RollbackChangesDialog/0.0.1440.900/-480.-1080.1920.1080@-480.-1080.1920.1080" timestamp="1605126900168" />
-    <state x="80" y="-800" key="Vcs.Push.Dialog.v2" timestamp="1605127190324">
+    <state x="80" y="-800" key="Vcs.Push.Dialog.v2" timestamp="1605194131694">
       <screen x="-480" y="-1080" width="1920" height="1080" />
     </state>
-    <state x="80" y="-800" key="Vcs.Push.Dialog.v2/0.0.1440.900/-480.-1080.1920.1080@-480.-1080.1920.1080" timestamp="1605127190324" />
+    <state x="80" y="-800" key="Vcs.Push.Dialog.v2/0.0.1440.900/-480.-1080.1920.1080@-480.-1080.1920.1080" timestamp="1605194131694" />
     <state x="160" y="-778" width="639" height="476" key="find.popup" timestamp="1605126799500">
       <screen x="-480" y="-1080" width="1920" height="1080" />
     </state>
